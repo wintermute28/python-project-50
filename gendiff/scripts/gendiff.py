@@ -14,6 +14,7 @@ def main():
     diff = generate_diff(args.first_file, args.second_file)
     print(diff)
 
+
 def generate_diff(file1, file2):
     result = "{\n"
     first_file = json.load(open(file1))
@@ -34,6 +35,7 @@ def generate_diff(file1, file2):
             result += f"  + {key}: {bool_convert(second_file[key])}\n"
     result += "}"
     return result
+
 
 def bool_convert(input):
     if input is True:

@@ -10,6 +10,6 @@ def files_parser(file1, file2):
         if '.json' in file_in:
             file = json.load(open(file_in))
         elif '.yml' or '.yaml' in file_in:
-             file = yaml.load(open(file_in), Loader=yaml.SafeLoader)
+            file = yaml.load(open(file_in), Loader=yaml.SafeLoader)
         files_out.append(file)
     return files_out

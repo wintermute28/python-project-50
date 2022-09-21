@@ -8,3 +8,5 @@ Comparison of flat files (JSON)
 [![asciicast](https://asciinema.org/a/519182.svg)](https://asciinema.org/a/519182)
 Comparison of flat files (YAML)
 [![asciicast](https://asciinema.org/a/Duy04WNuAnqXloRAvr9157nLX.svg)](https://asciinema.org/a/Duy04WNuAnqXloRAvr9157nLX)
+Recursive comparison
+[![asciicast](https://asciinema.org/a/HXltNORG6QS7OKBdg88ZYAItp.svg)](https://asciinema.org/a/HXltNORG6QS7OKBdg88ZYAItp)

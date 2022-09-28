@@ -10,3 +10,7 @@ Comparison of flat files (YAML)
 [![asciicast](https://asciinema.org/a/Duy04WNuAnqXloRAvr9157nLX.svg)](https://asciinema.org/a/Duy04WNuAnqXloRAvr9157nLX)
 Recursive comparison
 [![asciicast](https://asciinema.org/a/HXltNORG6QS7OKBdg88ZYAItp.svg)](https://asciinema.org/a/HXltNORG6QS7OKBdg88ZYAItp)
+Flat format
+[![asciicast](https://asciinema.org/a/omfy6eDBpd06FhqTHRhBm1DyK.svg)](https://asciinema.org/a/omfy6eDBpd06FhqTHRhBm1DyK)
+Output in JSON
+[![asciicast](https://asciinema.org/a/ysQ5sMozwY2NJlwpkM6cXLB8p.svg)](https://asciinema.org/a/ysQ5sMozwY2NJlwpkM6cXLB8p)

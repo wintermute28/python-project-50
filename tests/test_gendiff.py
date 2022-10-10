@@ -1,4 +1,3 @@
-import json
 from gendiff.scripts.gendiff import generate_diff
 from formats.stylish import converte
 from formats.stylish import stylish

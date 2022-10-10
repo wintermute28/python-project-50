@@ -5,6 +5,7 @@ from formats.stylish import stylish
 from formats.plain import plain
 from formats.json import json_format
 
+
 def test_generate_diff_json():
     result = open('tests/fixtures/result_test.txt', 'r').read()
     assert generate_diff('tests/fixtures/file1.json', 'tests/fixtures/file2.json', stylish) == result

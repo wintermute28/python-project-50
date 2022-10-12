@@ -4,10 +4,9 @@ from formats.json import json_format
 from formats.stylish import stylish
 
 
-def generate_diff(file_path1, file_path2, format=stylish):
+def generate_diff(file_path1, file_path2, format='stylish'):
     first_file, second_file = parcing_files(file_path1, file_path2)
     diff_struct = diff(first_file, second_file)
-    # print(diff_struct)
     if format == 'plain':
         format = plain
     if format == 'json':
